@@ -1,6 +1,6 @@
 # Swagger generated server
 
-Spring Boot Server 
+#SERVICE ORDERING API REST SPECIFICATION
 
 
 ## Overview  
